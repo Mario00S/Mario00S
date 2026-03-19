@@ -2,15 +2,11 @@
 
 ## About Me
 
-QA Professional with experience in **SaaS solutions** using manual testing and **Robot Framework** automation.
+I'm Mario, a QA professional expanding my skills into full-stack development with .NET at Avenga Academy.
 
-🚀 **Currently Learning**: CI/CD with Jenkins, Docker, and Playwright    
-🎯 **GitHub Purpose**: Upskilling and experimenting with new technologies
+🚀 Currently learning: C#
 
-## Experience
-- ✅ Manual & automated testing 
-- 🔄 SaaS software quality assurance
-- 🌱 Learning Jenkins, Docker, Playwright
+🎯 Focused on: Full-stack development, QA automation, and software quality
 
 
 
