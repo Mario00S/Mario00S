@@ -20,8 +20,7 @@
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mario00S&show_icons=true&theme=tokyonight" alt="Mario's GitHub stats" />
-  <img
+    <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mario00S&layout=compact&theme=tokyonight"
     alt="Top languages"
     style="display:block; margin-top:10px; margin-left:0;"
